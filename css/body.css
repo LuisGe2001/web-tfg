@@ -1,0 +1,23 @@
+/* Imagen Fondo*/
+body {
+    background-image: url('https://s.libertaddigital.com/2018/11/23/1920/1080/fit/carretilla-elevadora-almacen-maquina-trabajador-la-industria-pallet-transporte-de-mercancias-de-almacenamiento-gastos-de-envio-de-carg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+/* Letra del sitio */
+body {
+    font-family: Arial;
+}
+
+
+  .welcome-message {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+  }

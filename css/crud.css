@@ -1,0 +1,49 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  tr, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+
+  tr {
+    background-color: #f2f2f2;
+  }
+
+  /* Boton verde */
+  a.green-button {
+    color: white;
+    background-color: green;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  a.green-button:hover {
+    background-color: darkgreen;
+}
+/* Boton azul */
+a.blue-button {
+    color: white;
+    background-color: blue;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  a.blue-button:hover {
+    background-color: darkblue;
+}
+
+/* Boton rojo */
+a.red-button {
+    color: white;
+    background-color: red;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  a.red-button:hover {
+    background-color: darkred;
+}
